@@ -8,4 +8,3 @@ c=a+b
 cout<<c;
 getch();
 }
-i made changes
