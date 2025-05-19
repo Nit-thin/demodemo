@@ -7,3 +7,4 @@ a=15;
 printf("The value of a = %d",a);
 getch();
 }
+i made changes inserbver
